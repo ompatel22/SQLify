@@ -24,12 +24,12 @@ In the UI, users can ask questions in natural language, and SQLify will produce 
 
 ## Installation
 
-1.Clone this repository to your local machine using:
+1. Clone this repository to your local machine using:
 
 ```bash
   git clone https://github.com/yash-sojitra-20/SQLify.git
 ```
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
   cd SQLify
@@ -39,7 +39,7 @@ In the UI, users can ask questions in natural language, and SQLify will produce 
 ```bash
   pip install -r requirements.txt
 ```
-4.Acquire an api key through makersuite.google.com and put it in .env file
+4. Acquire an api key through makersuite.google.com and put it in .env file
 
 ```bash
   GOOGLE_API_KEY="your_api_key_here"
@@ -55,7 +55,7 @@ streamlit run SQLify_Frontend.py
 
 ```
 
-2.The web app will open in your browser where you can ask questions
+2. The web app will open in your browser where you can ask questions
 
 ## Sample Questions
   - How many total t shirts are left in total in stock?
